@@ -2,7 +2,7 @@
 ## My name is Paulo Maiano and my nickname is "lupaolo"!
 ### I'm studying Python for Backend Development.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
-And learning 
+<p align="center" style:font-size="20px">And learning</p> 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40"/>
