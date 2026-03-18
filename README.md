@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Paulo Maiano and my nickname is "lupaolo"!
+### I'm studying Python for Backend Development.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
+#### And learning 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+           
+          
 
 <!--
 **lupaolo/lupaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
