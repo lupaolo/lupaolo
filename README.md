@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# Hello! Welcome to my Github profile.
 
 ## My name is Paulo Maiano and my nickname is "lupaolo"!
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🐍 Main stack
+### Main stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔥 Learning
+### Learning
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="margin-right:15px;"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 💬 Let's talk!
+### Let's talk!
 
 <p align="center">
   <a href="https://wa.me/SEUNUMERO">
