@@ -7,12 +7,11 @@
 -  A regular guy who likes technology, Gym and Games
 -  I'm studying Python and Java
 
-  <p align="center">
+<p align="center">
   <img src="https://tenor.com" alt="Magna Black Clover" width="80%">
 </p>
   
 ---
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Always+learning+new+things;Welcome+to+my+profile!" />
