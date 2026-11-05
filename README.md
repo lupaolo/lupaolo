@@ -59,16 +59,6 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
-  &nbsp;&nbsp;
-  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=lupaolo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
