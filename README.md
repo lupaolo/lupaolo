@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
- [📧 Clique aqui para me enviar um e-mail](mailto:paulomaianos@gmail.com)
-
+  <a href="mailto:paulomaianos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
