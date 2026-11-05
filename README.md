@@ -49,7 +49,7 @@
 ### Let's talk!
 
 <p align="center">
-  <a href="https://wa.me/+55 61 8659-5400">
+  <a href="https://wa.me/+55618659-5400">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   
-  <a href="mailto:paulomaianos@gmail.com">
+  <a href="paulomaianos@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
