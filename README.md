@@ -1,7 +1,9 @@
-<h1 align="center">Paulo Maiano <sub>aka lupaolo</sub> 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Paulo%20Maiano&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20lupaolo&descAlignY=58&descSize=22" alt="Paulo Maiano" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Paulo+Maiano;aka+lupaolo;Python+Backend+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,9 +59,15 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lupaolo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupaolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  &nbsp;&nbsp;
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -85,5 +93,5 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 </p>
