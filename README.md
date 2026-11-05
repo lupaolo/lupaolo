@@ -4,9 +4,12 @@
 
 ---
 ###  About me
--  A regular guy who likes technology
+-  A regular guy who likes technology, Gym and Games
 -  I'm studying Python and Java
--  I like gaming
+
+  <p align="center">
+  <img src="https://tenor.com" alt="Magna Black Clover" width="80%">
+</p>
   
 ---
 
@@ -26,7 +29,6 @@
 ---
 
 ### Learning
-![Texto Alternativo](https://media1.tenor.com/m/18DgZ_yiwLEAAAAd/cats-typing.gif)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="margin-right:15px;"/>
