@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56124807-e405-42e2-a09b-5fe762744fbc" alt="Magna Black Clover" width="50%">
+  <img src="https://github.com/user-attachments/assets/d55fb55e-55a6-4a58-82c3-7245d18cff00" alt="Magna Black Clover" width="50%">
 </p>
 
   
