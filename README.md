@@ -3,13 +3,11 @@
 ## My name is Paulo Maiano and my nickname is "lupaolo"!
 
 ---
-
-### 🧠 About me
-
-- 🚀 I'm studying Python for Backend Development
-- 📚 Always learning new technologies
-- 💬 Ask me about programming
-
+###  About me
+-  A regular guy who likes technology
+-  I'm studying Python and Java
+-  I like gaming
+  
 ---
 
 
@@ -49,7 +47,7 @@
 ### Let's talk!
 
 <p align="center">
-  <a href="https://wa.me/+55618659-5400">
+  <a href="https://wa.me/556186595400">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   
