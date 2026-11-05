@@ -26,6 +26,7 @@
 ---
 
 ### Learning
+![Texto Alternativo](https://media1.tenor.com/m/18DgZ_yiwLEAAAAd/cats-typing.gif)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="margin-right:15px;"/>
