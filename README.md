@@ -1,3 +1,4 @@
+<img width="498" height="281" alt="magna-black-clover" src="https://github.com/user-attachments/assets/56124807-e405-42e2-a09b-5fe762744fbc" />
 # Hello! Welcome to my Github profile.
 
 ## My name is Paulo Maiano and my nickname is "lupaolo"!
@@ -8,7 +9,7 @@
 -  I'm studying Python and Java
 
 <p align="center">
-  <img src="https://giphy.com" alt="Magna Black Clover" width="80%">
+  <img src="https://github.com/user-attachments/assets/56124807-e405-42e2-a09b-5fe762744fbc" alt="Magna Black Clover" width="80%">
 </p>
 
   
