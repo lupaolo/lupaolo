@@ -59,8 +59,6 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 </p>
 
