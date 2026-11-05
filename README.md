@@ -8,8 +8,9 @@
 -  I'm studying Python and Java
 
 <p align="center">
-  <img src="https://tenor.com" alt="Magna Black Clover" width="80%">
+  <img src="https://giphy.com" alt="Magna Black Clover" width="80%">
 </p>
+
   
 ---
 
