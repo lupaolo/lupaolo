@@ -50,8 +50,6 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lupaolo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -60,6 +58,7 @@ Atualmente estudando **Python** e **Java**, com foco em desenvolvimento backend.
 </p>
 
 
+---
 
 ## 📫 Vamos conversar!
 
